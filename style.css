@@ -1,0 +1,8 @@
+p {
+  color: blue; /* Sets the text color to blue */
+  font-family: Arial, sans-serif; /* Sets the font to Arial or a generic sans-serif font */
+  font-size: 16px; /* Sets the font size to 16 pixels */
+  background-color: lightgray; /* Sets the background color to light gray */
+  padding: 10px; /* Adds 10 pixels of padding around the content */
+  border: 1px solid #ccc; /* Adds a 1-pixel solid gray border */
+}
